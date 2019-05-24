@@ -1,1 +1,1 @@
-# shiny-hdi
+# Human Development Index Shiny App
